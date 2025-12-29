@@ -1,6 +1,6 @@
 // Google Apps Script Web App URL (여기에 배포된 웹 앱 URL을 입력하세요)
 // 예: https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbylgX_pL--dQ3RoiCnJwyUtx42gowaOCqL-WjntVXazYd68EfFp1bUaQu7MRvKwICM5/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzzd4jKE4zMiRCiDBa3Ua9jQ94MXoctMAJJxWWg7YUkREHcg-JRkTAoEv8WVGjlTygK/exec';
 
 // DOM 요소
 const reservationForm = document.getElementById('reservationForm');
